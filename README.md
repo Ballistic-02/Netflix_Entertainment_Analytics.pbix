@@ -35,13 +35,13 @@ Unstructured data and comma-separated text blocks require rigorous normalization
 ## 🎨 Dashboard Previews
 
 ### 1. Content Strategy & Market Insights
-![Page 1 Previews](./04_Screenshots/Page1_Market_Insights.png)
+![Page 1 Previews](https://github.com/Ballistic-02/Netflix_Entertainment_Analytics.pbix/blob/main/Netflix_Entertainment_Analytics/Screenshot%20(845).png)
 
 ### 2. Talent & Genre Dynamics
-![Page 2 Previews](./04_Screenshots/Page2_Talent_Dynamics.png)
+![Page 2 Previews](https://github.com/Ballistic-02/Netflix_Entertainment_Analytics.pbix/blob/main/Netflix_Entertainment_Analytics/Screenshot%20(846).png)
 
 ### 3. Release Seasonality & Format Optimization
-![Page 3 Previews](./04_Screenshots/Page3_Platform_Operations.png)
+![Page 3 Previews](https://github.com/Ballistic-02/Netflix_Entertainment_Analytics.pbix/blob/main/Netflix_Entertainment_Analytics/Screenshot%20(847).png)
 
 ---
 
